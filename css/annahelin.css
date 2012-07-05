@@ -178,5 +178,5 @@ width: 294px;
 #portfolio .column-two img {
 margin-left: auto;
 margin-right: auto;
-width: 580px;	
+display: block;	
 }

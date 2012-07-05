@@ -156,3 +156,11 @@ float: left;
 padding-right: 31px;
 margin-top: 20px;	
 }
+
+#portfolio .column-two {
+float: left;
+padding-right: 31px;
+margin-top: 20px;	
+background-color: #9da2a4;
+width: 600px;	
+}
